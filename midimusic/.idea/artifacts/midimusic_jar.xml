@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="midimusic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/midimusic_jar</output-path>
+    <root id="root">
+      <element id="archive" name="midimusic.jar">
+        <element id="module-output" name="MidiPiano" />
+      </element>
+    </root>
+  </artifact>
+</component>
